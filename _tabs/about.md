@@ -36,7 +36,7 @@ Actively practicing on:
 ## 📫 Connect With Me
 
 - **GitHub:** [@Gladigator](https://github.com/Gladigator)
-- **LinkedIn:** (https://www.linkedin.com/in/loganathan-mani/)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/loganathan-mani/)
 - **Email:** [loganath87@gmail.com]
 
 ---
