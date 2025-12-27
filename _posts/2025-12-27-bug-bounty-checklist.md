@@ -25,14 +25,6 @@ Perfect for bug bounty hunters, pentesters and security researchers who want to 
 
 ---
 
-## 📥 Downloads
-
-- [📄 DOCX Version](/downloads/Bug_Bounty_Checklist.docx) - Print and check off items
-- [📝 Markdown Version](/downloads/Bug_Bounty_Checklist.md) - Use in terminal or notes
-- [💻 Interactive HTML](/checklist.html) - Web-based version
-
----
-
 ## 🔍 Testing Methodology
 
 ### Phase 1: Reconnaissance & Information Gathering
